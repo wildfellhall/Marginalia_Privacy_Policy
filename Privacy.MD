@@ -1,9 +1,16 @@
 ## Privacy policy
 
   Marginalia — Study Notes & Highlights
+
+
   Effective date: September 12, 2026
+
+
   Publisher: Sanah Rajesh
-  Contact: leapon.outreach@gmail.com
+
+
+  Contact: sanah.s.rajesh@gmail.com
+  Alternative Contact: leapon.outreach@gmail.com
 
   ### Information we process
 
@@ -96,4 +103,4 @@
   This policy will be updated when the extension’s data practices change. Material changes will be communicated where
   required.
 
-  For privacy questions, contact Sanah Rajesh at leapon.outreach@gmail.com.
+  For privacy questions, contact Sanah Rajesh at sanah.s.rajesh@gmail.com
